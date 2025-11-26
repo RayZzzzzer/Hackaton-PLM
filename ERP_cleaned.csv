@@ -1,0 +1,151 @@
+﻿Matricule,Prénom,Nom,Qualification,Poste de montage,Compétences,Habilitations,Coût horaire (€),Rotation
+AIR0001,Jacques,Petit,Expert Technique,Poste 1,"Assemblage Niveau 3, Montage mécanique Niveau 3, Lecture plan Niveau 3",Pneumatique Certifié,42.5,Semaine 1: Poste 55 | Semaine 3: Poste 50
+AIR0002,François,Lefebvre,Technicien Junior,Poste 2,"Contrôle qualité Niveau 1, Lecture plan Niveau 1, Assemblage Niveau 1","Électrique, Pneumatique",32.5,Semaine 1: Poste 7 | Semaine 2: Poste 11
+AIR0003,Nathalie,Garcia,Technicien Confirmé,Poste 3,"Lecture plan Niveau 2, Soudure Niveau 2, Contrôle qualité Niveau 2, Assemblage Niveau 2","Électrique, Hydraulique",35.75,Semaine 1: Poste 14 | Semaine 2: Poste 56
+AIR0004,Martine,Durand,Opérateur Qualifié,Poste 4,"Montage électrique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 1, Montage mécanique Niveau 2",Pneumatique,33.5,Semaine 1: Poste 32 | Semaine 2: Poste 5
+AIR0005,Luc,David,Chef d'Équipe Technique,Poste 5,"Lecture plan Niveau 2, Soudure Niveau 2","Électrique, Hydraulique",36.75,Semaine 1: Poste 26 | Semaine 2: Poste 35
+AIR0006,Isabelle,Leroy,Opérateur Senior,Poste 6,"Lecture plan Niveau 3, Montage mécanique Niveau 3, Assemblage Niveau 3, Montage électrique Niveau 3",Mécanique,41.5,Semaine 1: Poste 2 | Semaine 3: Poste 54
+AIR0007,Jacques,Laurent,Opérateur Spécialisé,Poste 7,"Soudure Niveau 3, Assemblage Niveau 2",Électrique,35.5,Semaine 1: Poste 27 | Semaine 2: Poste 16
+AIR0008,Bernard,Simon,Technicien Junior,Poste 8,"Contrôle qualité Niveau 1, Assemblage Niveau 1","Hydraulique, Pneumatique",30.25,Semaine 1: Poste 41 | Semaine 2: Poste 45
+AIR0009,Martine,Vincent,Chef d'Équipe Confirmé,Poste 9,"Lecture plan Niveau 2, Assemblage Niveau 2, Montage mécanique Niveau 2, Montage électrique Niveau 2",Hydraulique,40.5,Semaine 1: Poste 4 | Semaine 2: Poste 20
+AIR0010,Hélène,Vincent,Technicien Senior,Poste 10,"Montage électrique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2",Électrique,38.5,Semaine 1: Poste 15 | Semaine 2: Poste 50
+AIR0011,Hiroshi,Dubois,Chef d'Équipe Technique,Poste 11,"Assemblage Niveau 2, Contrôle qualité Niveau 2",Mécanique,39.5,Semaine 1: Poste 15 | Semaine 2: Poste 40
+AIR0012,Ahmed,Durand,Technicien Confirmé,Poste 12,"Lecture plan Niveau 2, Montage électrique Niveau 2, Assemblage Niveau 2, Montage mécanique Niveau 2","Pneumatique, Hydraulique",35.75,Semaine 1: Poste 32 | Semaine 2: Poste 6
+AIR0013,Olivia,Richard,Technicien Junior,Poste 13,"Assemblage Niveau 1, Lecture plan Niveau 1","Hydraulique, Mécanique",35.5,Semaine 1: Poste 30 | Semaine 2: Poste 4
+AIR0014,Julien,Robert,Chef d'Équipe Technique,Poste 14,"Contrôle qualité Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2, Soudure Niveau 2","Mécanique, Pneumatique",38.5,Semaine 1: Poste 52 | Semaine 2: Poste 17
+AIR0015,Liam,Lefebvre,Opérateur Senior,Poste 15,"Lecture plan Niveau 2, Contrôle qualité Niveau 2, Assemblage Niveau 2","Électrique, Pneumatique",40.5,Semaine 1: Poste 4 | Semaine 2: Poste 38
+AIR0016,Fatima,Lefebvre,Opérateur Technique,Poste 16,"Montage mécanique Niveau 2, Soudure Niveau 2",Hydraulique,36.5,Semaine 1: Poste 54 | Semaine 2: Poste 13
+AIR0017,Jean,Michel,Opérateur Technique,Poste 17,"Contrôle qualité Niveau 2, Soudure Niveau 2",Hydraulique,33.5,Semaine 1: Poste 28 | Semaine 2: Poste 37
+AIR0018,André,Bertrand,Technicien Senior,Poste 18,"Montage mécanique Niveau 3, Soudure Niveau 3, Montage électrique Niveau 3","Électrique, Hydraulique",42.5,Semaine 1: Poste 16 | Semaine 2: Poste 22
+AIR0019,Sophie,Vincent,Chef d'Équipe Expert,Poste 19,"Lecture plan Niveau 3, Montage électrique Niveau 3",Hydraulique,44.5,Semaine 1: Poste 4 | Semaine 3: Poste 54
+AIR0020,Martine,Moreau,Opérateur Technique,Poste 20,"Assemblage Niveau 2, Contrôle qualité Niveau 2",Hydraulique,37.5,Semaine 1: Poste 9 | Semaine 2: Poste 1
+AIR0021,Claire,Garcia,Technicien Senior,Poste 21,"Montage électrique Niveau 2, Soudure Niveau 2",Mécanique,39.5,Semaine 1: Poste 52 | Semaine 2: Poste 20
+AIR0022,Martine,Leroy,Technicien Technique,Poste 22,"Assemblage Niveau 2, Lecture plan Niveau 2, Soudure Niveau 2",Pneumatique,34.5,Semaine 1: Poste 39 | Semaine 2: Poste 30
+AIR0023,Alice,Durand,Technicien Junior,Poste 23,"Montage électrique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2, Contrôle qualité Niveau 2",Mécanique,36.5,Semaine 1: Poste 18 | Semaine 2: Poste 29
+AIR0024,Emma,Petit,Chef d'Équipe Technique,Poste 24,"Lecture plan Niveau 2, Montage électrique Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2","Hydraulique, Mécanique",38.5,Semaine 1: Poste 35 | Semaine 2: Poste 52
+AIR0025,Miguel,Thomas,Opérateur Senior,Poste 25,"Montage mécanique Niveau 2, Montage électrique Niveau 2","Hydraulique, Pneumatique",39.5,Semaine 1: Poste 34 | Semaine 2: Poste 36
+AIR0026,Aisha,Vincent,Technicien Senior,Poste 26,"Assemblage Niveau 3, Soudure Niveau 3","Pneumatique, Mécanique",38.5,Semaine 1: Poste 14 | Semaine 2: Poste 35
+AIR0027,Miguel,Martin,Chef d'Équipe Expert,Poste 27,"Montage mécanique Niveau 3, Montage électrique Niveau 3",Pneumatique,43.5,Semaine 1: Poste 23 | Semaine 2: Poste 29
+AIR0028,Bernard,Bernard,Technicien Senior,Poste 28,"Soudure Niveau 3, Montage électrique Niveau 3, Montage mécanique Niveau 3, Lecture plan Niveau 3","Hydraulique, Électrique",41.5,Semaine 1: Poste 31 | Semaine 2: Poste 49
+AIR0029,Chen,Martin,Technicien Junior,Poste 29,"Contrôle qualité Niveau 1, Montage mécanique Niveau 1",Hydraulique,32.5,Semaine 1: Poste 23 | Semaine 2: Poste 25
+AIR0030,Louis,Durand,Opérateur Technique,Poste 30,"Soudure Niveau 2, Contrôle qualité Niveau 2, Montage électrique Niveau 2, Lecture plan Niveau 2",Pneumatique,38.5,Semaine 1: Poste 38 | Semaine 2: Poste 2
+AIR0031,Alice,Michel,Opérateur Technique,Poste 31,"Montage mécanique Niveau 2, Contrôle qualité Niveau 2",Électrique,35.5,Semaine 1: Poste 26 | Semaine 2: Poste 27
+AIR0032,Pierre,Lefebvre,Chef d'Équipe Technique,Poste 32,"Contrôle qualité Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2, Soudure Niveau 2",Mécanique,37.5,Semaine 1: Poste 56 | Semaine 2: Poste 28
+AIR0033,Isabelle,Petit,Opérateur Junior,Poste 33,"Montage électrique Niveau 1, Soudure Niveau 1, Montage mécanique Niveau 1","Hydraulique, Pneumatique",30.5,Semaine 1: Poste 53 | Semaine 2: Poste 7
+AIR0034,Jacques,Laurent,Opérateur Technique,Poste 34,"Soudure Niveau 2, Assemblage Niveau 2, Contrôle qualité Niveau 2","Hydraulique, Mécanique",34.5,Semaine 1: Poste 14 | Semaine 2: Poste 52
+AIR0035,Liam,Durand,Technicien Technique,Poste 35,"Montage électrique Niveau 2, Assemblage Niveau 2, Contrôle qualité Niveau 2, Lecture plan Niveau 2","Hydraulique, Électrique",41.5,Semaine 1: Poste 17 | Semaine 2: Poste 42
+AIR0036,Hana,Simon,Opérateur Technique,Poste 36,"Lecture plan Niveau 2, Contrôle qualité Niveau 2, Montage mécanique Niveau 2",Mécanique,37.5,Semaine 1: Poste 1 | Semaine 2: Poste 48
+AIR0037,Antoine,Durand,Technicien Senior,Poste 37,"Contrôle qualité Niveau 3, Montage électrique Niveau 3","Hydraulique, Mécanique",42.5,Semaine 1: Poste 25 | Semaine 2: Poste 15
+AIR0038,François,Durand,Technicien Senior,Poste 38,"Lecture plan Niveau 3, Contrôle qualité Niveau 3, Montage mécanique Niveau 3",Pneumatique,41.5,Semaine 1: Poste 12 | Semaine 2: Poste 23
+AIR0039,Marie,Moreau,Chef d'Équipe Technique,Poste 39,"Lecture plan Niveau 2, Contrôle qualité Niveau 2, Assemblage Niveau 2, Soudure Niveau 2","Mécanique, Hydraulique",37.5,Semaine 1: Poste 50 | Semaine 2: Poste 40
+AIR0040,Carlos,Vincent,Chef d'Équipe Junior,Poste 40,"Assemblage Niveau 2, Soudure Niveau 2",Électrique,35.5,Semaine 1: Poste 44 | Semaine 2: Poste 9
+AIR0041,Ethan,Richard,Chef d'Équipe Technique,Poste 41,"Assemblage Niveau 2, Montage mécanique Niveau 2","Pneumatique, Hydraulique",38.5,Semaine 1: Poste 29 | Semaine 2: Poste 20
+AIR0042,André,Petit,Chef d'Équipe Junior,Poste 42,"Lecture plan Niveau 1, Montage électrique Niveau 1",Mécanique,32.5,Semaine 1: Poste 1 | Semaine 2: Poste 19
+AIR0043,Hiroshi,Fournier,Chef d'Équipe Technique,Poste 43,"Soudure Niveau 2, Lecture plan Niveau 2, Montage électrique Niveau 2",Hydraulique,40.5,Semaine 1: Poste 8 | Semaine 2: Poste 17
+AIR0044,Luc,Roux,Chef d'Équipe Technique,Poste 44,"Montage mécanique Niveau 2, Assemblage Niveau 2, Montage électrique Niveau 2, Soudure Niveau 2",Électrique,37.5,Semaine 1: Poste 53 | Semaine 2: Poste 20
+AIR0045,Jean,Roux,Opérateur Senior,Poste 45,"Assemblage Niveau 2, Soudure Niveau 2, Lecture plan Niveau 2, Montage électrique Niveau 2","Pneumatique, Hydraulique",39.5,Semaine 1: Poste 20 | Semaine 2: Poste 7
+AIR0046,Pierre,Vincent,Opérateur Technique,Poste 46,"Montage mécanique Niveau 2, Soudure Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2","Pneumatique, Électrique",36.5,Semaine 1: Poste 21 | Semaine 2: Poste 39
+AIR0047,Hana,Martin,Opérateur Junior,Poste 47,"Contrôle qualité Niveau 1, Assemblage Niveau 1","Électrique, Mécanique",32.5,Semaine 1: Poste 11 | Semaine 2: Poste 5
+AIR0048,Noah,Laurent,Opérateur Senior,Poste 48,"Montage mécanique Niveau 3, Soudure Niveau 3, Contrôle qualité Niveau 3",Hydraulique,39.5,Semaine 1: Poste 3 | Semaine 2: Poste 27
+AIR0049,Raj,Lefebvre,Opérateur Senior,Poste 49,"Soudure Niveau 3, Montage mécanique Niveau 3, Montage électrique Niveau 3, Contrôle qualité Niveau 3","Électrique, Hydraulique",42.5,Semaine 1: Poste 51 | Semaine 2: Poste 27
+AIR0050,Nathalie,Roux,Chef d'Équipe Expert,Poste 50,"Montage électrique Niveau 3, Assemblage Niveau 3, Lecture plan Niveau 3, Soudure Niveau 3","Mécanique, Hydraulique",41.5,Semaine 1: Poste 38 | Semaine 2: Poste 29
+AIR0051,Nathalie,Martin,Technicien Junior,Poste 51,"Montage mécanique Niveau 2, Contrôle qualité Niveau 2, Soudure Niveau 2, Lecture plan Niveau 2",Hydraulique,35.5,Semaine 1: Poste 17 | Semaine 2: Poste 44
+AIR0052,Bernard,Petit,Chef d'Équipe Technique,Poste 52,"Montage mécanique Niveau 2, Soudure Niveau 2",Électrique,37.5,Semaine 1: Poste 32 | Semaine 2: Poste 29
+AIR0053,Martine,Dubois,Opérateur Senior,Poste 53,"Montage électrique Niveau 3, Montage mécanique Niveau 3","Mécanique, Pneumatique",39.5,Semaine 1: Poste 48 | Semaine 2: Poste 17
+AIR0054,Diego,Thomas,Opérateur Junior,Poste 54,"Lecture plan Niveau 1, Montage mécanique Niveau 1",Hydraulique,32.5,Semaine 1: Poste 27 | Semaine 2: Poste 22
+AIR0055,Jacques,Dubois,Opérateur Technique,Poste 55,"Assemblage Niveau 2, Montage mécanique Niveau 2, Contrôle qualité Niveau 2",Mécanique,38.5,Semaine 1: Poste 46 | Semaine 2: Poste 49
+AIR0056,Camille,Michel,Chef d'Équipe Senior,Poste 56,"Montage électrique Niveau 3, Lecture plan Niveau 3, Assemblage Niveau 3","Électrique, Pneumatique",41.5,Semaine 1: Poste 34 | Semaine 2: Poste 20
+AIR0057,Chen,Lefebvre,Chef d'Équipe Junior,Poste 1,"Montage électrique Niveau 1, Lecture plan Niveau 1",Mécanique,30.5,Semaine 1: Poste 3 | Semaine 2: Poste 4
+AIR0058,Emma,Simon,Technicien Technique,Poste 2,"Assemblage Niveau 2, Contrôle qualité Niveau 2",Hydraulique,39.5,Semaine 1: Poste 17 | Semaine 2: Poste 18
+AIR0059,Luc,Petit,Chef d'Équipe Junior,Poste 3,"Montage mécanique Niveau 1, Contrôle qualité Niveau 1, Lecture plan Niveau 1",Hydraulique,32.5,Semaine 1: Poste 38 | Semaine 2: Poste 10
+AIR0060,Chen,Laurent,Technicien Junior,Poste 4,"Assemblage Niveau 1, Lecture plan Niveau 1","Mécanique, Pneumatique",32.5,Semaine 1: Poste 4 | Semaine 2: Poste 33
+AIR0061,Julien,Bernard,Opérateur Senior,Poste 5,"Montage électrique Niveau 3, Lecture plan Niveau 3",Pneumatique,41.5,Semaine 1: Poste 37 | Semaine 2: Poste 43
+AIR0062,Louis,Garcia,Chef d'Équipe Junior,Poste 6,"Soudure Niveau 2, Lecture plan Niveau 2, Montage mécanique Niveau 2",Électrique,35.5,Semaine 1: Poste 20 | Semaine 2: Poste 6
+AIR0063,Hiroshi,Martin,Opérateur Junior,Poste 7,"Contrôle qualité Niveau 1, Assemblage Niveau 1, Lecture plan Niveau 1",Pneumatique,32.5,Semaine 1: Poste 25 | Semaine 2: Poste 44
+AIR0064,Bernard,Michel,Opérateur Senior,Poste 8,"Assemblage Niveau 3, Soudure Niveau 3, Contrôle qualité Niveau 3","Mécanique, Hydraulique",41.5,Semaine 1: Poste 14 | Semaine 2: Poste 29
+AIR0065,Jacques,Roux,Opérateur Senior,Poste 9,"Soudure Niveau 3, Montage électrique Niveau 3","Électrique, Mécanique",42.5,Semaine 1: Poste 15 | Semaine 2: Poste 7
+AIR0066,Chen,Petit,Chef d'Équipe Expert,Poste 10,"Lecture plan Niveau 3, Montage mécanique Niveau 3, Soudure Niveau 3, Montage électrique Niveau 3","Hydraulique, Pneumatique",41.5,Semaine 1: Poste 25 | Semaine 2: Poste 9
+AIR0067,Bernard,Moreau,Chef d'Équipe Junior,Poste 11,"Contrôle qualité Niveau 1, Soudure Niveau 1, Montage mécanique Niveau 1",Pneumatique,32.5,Semaine 1: Poste 36 | Semaine 2: Poste 31
+AIR0068,Aisha,Thomas,Opérateur Technique,Poste 12,"Assemblage Niveau 2, Contrôle qualité Niveau 2","Pneumatique, Électrique",38.5,Semaine 1: Poste 28 | Semaine 2: Poste 46
+AIR0069,Noah,Thomas,Opérateur Technique,Poste 13,"Lecture plan Niveau 2, Soudure Niveau 2",Pneumatique,36.5,Semaine 1: Poste 36 | Semaine 2: Poste 30
+AIR0070,Noah,Robert,Technicien Technique,Poste 14,"Soudure Niveau 2, Contrôle qualité Niveau 2, Lecture plan Niveau 2, Assemblage Niveau 2","Mécanique, Électrique",36.5,Semaine 1: Poste 13 | Semaine 2: Poste 4
+AIR0071,Antoine,Vincent,Chef d'Équipe Senior,Poste 15,"Assemblage Niveau 3, Montage mécanique Niveau 3",Pneumatique,41.5,Semaine 1: Poste 27 | Semaine 2: Poste 31
+AIR0072,Sophie,Bernard,Chef d'Équipe Senior,Poste 16,"Lecture plan Niveau 3, Soudure Niveau 3","Hydraulique, Électrique",41.5,Semaine 1: Poste 52 | Semaine 2: Poste 24
+AIR0073,Liam,Michel,Technicien Technique,Poste 17,"Lecture plan Niveau 2, Montage mécanique Niveau 2, Contrôle qualité Niveau 2, Assemblage Niveau 2","Hydraulique, Pneumatique",39.5,Semaine 1: Poste 50 | Semaine 2: Poste 37
+AIR0074,Ahmed,Durand,Technicien Senior,Poste 18,"Soudure Niveau 3, Contrôle qualité Niveau 3",Hydraulique,41.5,Semaine 1: Poste 16 | Semaine 2: Poste 45
+AIR0075,Bernard,Moreau,Chef d'Équipe Junior,Poste 19,"Contrôle qualité Niveau 1, Lecture plan Niveau 1, Soudure Niveau 1","Mécanique, Hydraulique",32.5,Semaine 1: Poste 48 | Semaine 2: Poste 21
+AIR0076,Hélène,Lefebvre,Technicien Senior,Poste 20,"Lecture plan Niveau 3, Montage électrique Niveau 3",Pneumatique,39.5,Semaine 1: Poste 16 | Semaine 2: Poste 31
+AIR0077,Bernard,Bernard,Opérateur Technique,Poste 21,"Montage mécanique Niveau 2, Contrôle qualité Niveau 2, Soudure Niveau 2, Assemblage Niveau 2",Pneumatique,39.5,Semaine 1: Poste 24 | Semaine 2: Poste 37
+AIR0078,Diego,Roux,Chef d'Équipe Senior,Poste 22,"Soudure Niveau 3, Contrôle qualité Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3","Mécanique, Hydraulique",42.5,Semaine 1: Poste 4 | Semaine 2: Poste 6
+AIR0079,Jacques,Vincent,Technicien Technique,Poste 23,"Montage mécanique Niveau 2, Soudure Niveau 2, Contrôle qualité Niveau 2",Mécanique,39.5,Semaine 1: Poste 2 | Semaine 2: Poste 46
+AIR0080,Bernard,Garcia,Opérateur Technique,Poste 24,"Assemblage Niveau 2, Montage mécanique Niveau 2","Électrique, Pneumatique",36.5,Semaine 1: Poste 45 | Semaine 2: Poste 34
+AIR0081,Claire,Leroy,Technicien Senior,Poste 25,"Assemblage Niveau 3, Lecture plan Niveau 3, Contrôle qualité Niveau 3, Montage électrique Niveau 3",Hydraulique,41.5,Semaine 1: Poste 51 | Semaine 2: Poste 25
+AIR0082,Martine,David,Chef d'Équipe Senior,Poste 26,"Contrôle qualité Niveau 3, Assemblage Niveau 3",Électrique,41.5,Semaine 1: Poste 22 | Semaine 2: Poste 7
+AIR0083,Jean,Vincent,Chef d'Équipe Senior,Poste 27,"Lecture plan Niveau 3, Montage électrique Niveau 3, Assemblage Niveau 3, Soudure Niveau 3",Électrique,42.5,Semaine 1: Poste 43 | Semaine 2: Poste 2
+AIR0084,Hélène,Lefebvre,Technicien Technique,Poste 28,"Soudure Niveau 2, Lecture plan Niveau 2","Électrique, Hydraulique",36.5,Semaine 1: Poste 47 | Semaine 2: Poste 20
+AIR0085,Miguel,David,Chef d'Équipe Technique,Poste 29,"Assemblage Niveau 2, Montage électrique Niveau 2, Soudure Niveau 2",Électrique,38.5,Semaine 1: Poste 20 | Semaine 2: Poste 39
+AIR0086,Antoine,Robert,Opérateur Senior,Poste 30,"Assemblage Niveau 3, Montage électrique Niveau 3","Pneumatique, Hydraulique",41.5,Semaine 1: Poste 8 | Semaine 2: Poste 41
+AIR0087,Camille,Dubois,Opérateur Senior,Poste 31,"Contrôle qualité Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3","Pneumatique, Hydraulique",41.5,Semaine 1: Poste 9 | Semaine 2: Poste 10
+AIR0088,Marie,Vincent,Chef d'Équipe Expert,Poste 32,"Contrôle qualité Niveau 3, Montage mécanique Niveau 3, Assemblage Niveau 3",Pneumatique,41.5,Semaine 1: Poste 53 | Semaine 2: Poste 9
+AIR0089,Hana,Bertrand,Technicien Junior,Poste 33,"Montage électrique Niveau 1, Contrôle qualité Niveau 1",Électrique,32.5,Semaine 1: Poste 14 | Semaine 2: Poste 24
+AIR0090,Louis,Robert,Technicien Technique,Poste 34,"Montage mécanique Niveau 2, Lecture plan Niveau 2, Soudure Niveau 2",Électrique,38.5,Semaine 1: Poste 53 | Semaine 2: Poste 29
+AIR0091,Marie,Garcia,Opérateur Senior,Poste 35,"Contrôle qualité Niveau 3, Montage mécanique Niveau 3, Soudure Niveau 3",Pneumatique,41.5,Semaine 1: Poste 24 | Semaine 2: Poste 47
+AIR0092,Paul,Moreau,Chef d'Équipe Senior,Poste 36,"Lecture plan Niveau 3, Montage mécanique Niveau 3, Soudure Niveau 3, Contrôle qualité Niveau 3","Hydraulique, Mécanique",42.5,Semaine 1: Poste 2 | Semaine 2: Poste 38
+AIR0093,Bernard,Robert,Chef d'Équipe Technique,Poste 37,"Montage mécanique Niveau 2, Montage électrique Niveau 2, Soudure Niveau 2",Pneumatique,38.5,Semaine 1: Poste 22 | Semaine 2: Poste 22
+AIR0094,Hélène,Richard,Technicien Junior,Poste 38,"Assemblage Niveau 2, Contrôle qualité Niveau 2, Montage mécanique Niveau 2, Soudure Niveau 2","Électrique, Pneumatique",36.5,Semaine 1: Poste 35 | Semaine 2: Poste 50
+AIR0095,Martine,Garcia,Technicien Senior,Poste 39,"Soudure Niveau 3, Assemblage Niveau 3",Hydraulique,41.5,Semaine 1: Poste 21 | Semaine 2: Poste 15
+AIR0096,Jacques,Petit,Technicien Senior,Poste 40,"Contrôle qualité Niveau 3, Soudure Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3","Hydraulique, Pneumatique",41.5,Semaine 1: Poste 18 | Semaine 2: Poste 15
+AIR0097,Camille,Roux,Chef d'Équipe Expert,Poste 41,"Contrôle qualité Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3",Pneumatique,41.5,Semaine 1: Poste 56 | Semaine 2: Poste 26
+AIR0098,Luc,Durand,Technicien Technique,Poste 42,"Montage électrique Niveau 2, Contrôle qualité Niveau 2, Lecture plan Niveau 2, Montage mécanique Niveau 2","Hydraulique, Pneumatique",38.5,Semaine 1: Poste 2 | Semaine 2: Poste 45
+AIR0099,Camille,Fournier,Chef d'Équipe Technique,Poste 43,"Montage électrique Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2","Mécanique, Électrique",39.5,Semaine 1: Poste 27 | Semaine 2: Poste 4
+AIR0100,Isabelle,Moreau,Chef d'Équipe Expert,Poste 44,"Assemblage Niveau 3, Contrôle qualité Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3",Électrique,41.5,Semaine 1: Poste 23 | Semaine 2: Poste 4
+AIR0101,Antoine,Bertrand,Chef d'Équipe Expert,Poste 45,"Montage mécanique Niveau 3, Contrôle qualité Niveau 3, Soudure Niveau 3, Montage électrique Niveau 3","Pneumatique, Mécanique",41.5,Semaine 1: Poste 26 | Semaine 2: Poste 1
+AIR0102,André,Laurent,Chef d'Équipe Technique,Poste 46,"Soudure Niveau 2, Assemblage Niveau 2, Montage mécanique Niveau 2, Lecture plan Niveau 2","Électrique, Mécanique",37.5,Semaine 1: Poste 28 | Semaine 2: Poste 33
+AIR0103,Luc,Vincent,Opérateur Senior,Poste 47,"Montage mécanique Niveau 3, Soudure Niveau 3, Montage électrique Niveau 3",Pneumatique,41.5,Semaine 1: Poste 30 | Semaine 2: Poste 23
+AIR0104,Bernard,Michel,Technicien Senior,Poste 48,"Lecture plan Niveau 3, Montage électrique Niveau 3, Soudure Niveau 3","Mécanique, Pneumatique",41.5,Semaine 1: Poste 1 | Semaine 2: Poste 16
+AIR0105,Ahmed,Vincent,Chef d'Équipe Senior,Poste 49,"Assemblage Niveau 3, Montage mécanique Niveau 3","Hydraulique, Électrique",42.5,Semaine 1: Poste 19 | Semaine 2: Poste 36
+AIR0106,Jacques,Roux,Technicien Senior,Poste 50,"Montage électrique Niveau 3, Contrôle qualité Niveau 3",Pneumatique,39.5,Semaine 1: Poste 53 | Semaine 2: Poste 36
+AIR0107,Isabelle,Roux,Opérateur Technique,Poste 51,"Montage mécanique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2","Hydraulique, Mécanique",37.5,Semaine 1: Poste 26 | Semaine 2: Poste 14
+AIR0108,Alice,Lefebvre,Technicien Technique,Poste 52,"Lecture plan Niveau 2, Montage électrique Niveau 2, Montage mécanique Niveau 2","Mécanique, Hydraulique",38.5,Semaine 1: Poste 20 | Semaine 2: Poste 4
+AIR0109,Isabelle,Robert,Chef d'Équipe Senior,Poste 53,"Soudure Niveau 3, Contrôle qualité Niveau 3",Hydraulique,40.5,Semaine 1: Poste 52 | Semaine 2: Poste 20
+AIR0110,Hana,Simon,Chef d'Équipe Technique,Poste 54,"Contrôle qualité Niveau 2, Montage mécanique Niveau 2",Électrique,38.5,Semaine 1: Poste 2 | Semaine 2: Poste 33
+AIR0111,Sophie,Lefebvre,Chef d'Équipe Senior,Poste 55,"Assemblage Niveau 3, Lecture plan Niveau 3, Contrôle qualité Niveau 3, Montage mécanique Niveau 3",Électrique,41.5,Semaine 1: Poste 41 | Semaine 2: Poste 38
+AIR0112,Louis,Leroy,Opérateur Senior,Poste 56,"Assemblage Niveau 3, Contrôle qualité Niveau 3","Électrique, Hydraulique",41.5,Semaine 1: Poste 2 | Semaine 2: Poste 20
+AIR0113,Louis,Garcia,Opérateur Technique,Poste 1,"Soudure Niveau 2, Contrôle qualité Niveau 2","Pneumatique, Mécanique",37.5,Semaine 1: Poste 1 | Semaine 2: Poste 22
+AIR0114,Jacques,Vincent,Opérateur Senior,Poste 2,"Assemblage Niveau 3, Montage mécanique Niveau 3, Contrôle qualité Niveau 3, Montage électrique Niveau 3",Électrique,41.5,Semaine 1: Poste 21 | Semaine 2: Poste 5
+AIR0115,Nathalie,Fournier,Opérateur Senior,Poste 3,"Soudure Niveau 3, Lecture plan Niveau 3, Montage électrique Niveau 3",Électrique,41.5,Semaine 1: Poste 11 | Semaine 2: Poste 18
+AIR0116,Raj,Fournier,Opérateur Technique,Poste 4,"Soudure Niveau 2, Lecture plan Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2",Hydraulique,37.5,Semaine 1: Poste 6 | Semaine 2: Poste 50
+AIR0117,Jacques,Fournier,Technicien Senior,Poste 5,"Montage électrique Niveau 3, Montage mécanique Niveau 3, Soudure Niveau 3",Hydraulique,41.5,Semaine 1: Poste 11 | Semaine 2: Poste 51
+AIR0118,Chen,Simon,Chef d'Équipe Technique,Poste 6,"Contrôle qualité Niveau 2, Montage mécanique Niveau 2, Assemblage Niveau 2, Lecture plan Niveau 2","Pneumatique, Hydraulique",38.5,Semaine 1: Poste 45 | Semaine 2: Poste 33
+AIR0119,Yara,Martin,Chef d'Équipe Technique,Poste 7,"Assemblage Niveau 2, Montage mécanique Niveau 2",Électrique,37.5,Semaine 1: Poste 2 | Semaine 2: Poste 23
+AIR0120,Marie,Richard,Chef d'Équipe Expert,Poste 8,"Montage électrique Niveau 3, Montage mécanique Niveau 3, Lecture plan Niveau 3",Pneumatique,41.5,Semaine 1: Poste 56 | Semaine 2: Poste 5
+AIR0121,Bernard,Durand,Opérateur Senior,Poste 9,"Lecture plan Niveau 3, Montage mécanique Niveau 3, Soudure Niveau 3","Électrique, Hydraulique",41.5,Semaine 1: Poste 30 | Semaine 2: Poste 28
+AIR0122,Marie,Simon,Chef d'Équipe Senior,Poste 10,"Assemblage Niveau 3, Montage électrique Niveau 3, Soudure Niveau 3, Lecture plan Niveau 3",Mécanique,42.5,Semaine 1: Poste 45 | Semaine 2: Poste 2
+AIR0123,François,Simon,Opérateur Technique,Poste 11,"Montage mécanique Niveau 2, Montage électrique Niveau 2","Pneumatique, Mécanique",37.5,Semaine 1: Poste 15 | Semaine 2: Poste 4
+AIR0124,Hélène,Bernard,Chef d'Équipe Senior,Poste 12,"Montage électrique Niveau 3, Assemblage Niveau 3, Soudure Niveau 3",Électrique,41.5,Semaine 1: Poste 31 | Semaine 2: Poste 15
+AIR0125,Sophie,Simon,Opérateur Junior,Poste 13,"Montage électrique Niveau 1, Lecture plan Niveau 1","Mécanique, Électrique",32.5,Semaine 1: Poste 24 | Semaine 2: Poste 56
+AIR0126,Antoine,Laurent,Technicien Technique,Poste 14,"Soudure Niveau 2, Lecture plan Niveau 2","Électrique, Pneumatique",38.5,Semaine 1: Poste 34 | Semaine 2: Poste 38
+AIR0127,Priya,Bertrand,Technicien Junior,Poste 15,"Assemblage Niveau 1, Montage électrique Niveau 1, Contrôle qualité Niveau 1","Mécanique, Électrique",32.5,Semaine 1: Poste 44 | Semaine 2: Poste 7
+AIR0128,Sophie,Fournier,Chef d'Équipe Senior,Poste 16,"Contrôle qualité Niveau 3, Montage mécanique Niveau 3, Assemblage Niveau 3, Soudure Niveau 3",Pneumatique,41.5,Semaine 1: Poste 6 | Semaine 2: Poste 29
+AIR0129,Isabelle,Leroy,Technicien Technique,Poste 17,"Montage mécanique Niveau 2, Soudure Niveau 2, Assemblage Niveau 2",Mécanique,38.5,Semaine 1: Poste 5 | Semaine 2: Poste 48
+AIR0130,Isabelle,Leroy,Technicien Senior,Poste 18,"Contrôle qualité Niveau 3, Montage électrique Niveau 3",Mécanique,41.5,Semaine 1: Poste 48 | Semaine 2: Poste 43
+AIR0131,Claire,Moreau,Technicien Senior,Poste 19,"Soudure Niveau 3, Assemblage Niveau 3",Pneumatique,39.5,Semaine 1: Poste 1 | Semaine 2: Poste 24
+AIR0132,Bernard,Moreau,Opérateur Technique,Poste 20,"Contrôle qualité Niveau 2, Lecture plan Niveau 2",Électrique,37.5,Semaine 1: Poste 11 | Semaine 2: Poste 48
+AIR0133,Nathalie,Fournier,Opérateur Junior,Poste 21,"Assemblage Niveau 1, Montage électrique Niveau 1, Montage mécanique Niveau 1","Électrique, Pneumatique",32.5,Semaine 1: Poste 32 | Semaine 2: Poste 11
+AIR0134,Raj,Dubois,Technicien Technique,Poste 22,"Montage électrique Niveau 2, Soudure Niveau 2, Assemblage Niveau 2",Électrique,37.5,Semaine 1: Poste 48 | Semaine 2: Poste 14
+AIR0135,Paul,Petit,Opérateur Senior,Poste 23,"Soudure Niveau 3, Assemblage Niveau 3","Hydraulique, Électrique",41.5,Semaine 1: Poste 18 | Semaine 2: Poste 30
+AIR0136,Alice,Thomas,Opérateur Senior,Poste 24,"Soudure Niveau 3, Contrôle qualité Niveau 3, Montage électrique Niveau 3, Montage mécanique Niveau 3",Électrique,41.5,Semaine 1: Poste 6 | Semaine 2: Poste 56
+AIR0137,Camille,Durand,Opérateur Technique,Poste 25,"Assemblage Niveau 2, Montage électrique Niveau 2, Contrôle qualité Niveau 2, Lecture plan Niveau 2",Mécanique,38.5,Semaine 1: Poste 22 | Semaine 2: Poste 11
+AIR0138,Paul,Moreau,Opérateur Technique,Poste 26,"Lecture plan Niveau 2, Assemblage Niveau 2, Montage mécanique Niveau 2",Électrique,37.5,Semaine 1: Poste 40 | Semaine 2: Poste 36
+AIR0139,Aisha,Simon,Chef d'Équipe Technique,Poste 27,"Montage électrique Niveau 2, Lecture plan Niveau 2, Assemblage Niveau 2, Contrôle qualité Niveau 2","Électrique, Hydraulique",38.5,Semaine 1: Poste 30 | Semaine 2: Poste 41
+AIR0140,Nathalie,Simon,Technicien Technique,Poste 28,"Montage électrique Niveau 2, Montage mécanique Niveau 2",Pneumatique,37.5,Semaine 1: Poste 37 | Semaine 2: Poste 23
+AIR0141,Raj,Petit,Opérateur Technique,Poste 29,"Contrôle qualité Niveau 2, Lecture plan Niveau 2, Soudure Niveau 2","Mécanique, Hydraulique",37.5,Semaine 1: Poste 42 | Semaine 2: Poste 37
+AIR0142,Omar,Simon,Technicien Junior,Poste 30,"Assemblage Niveau 1, Lecture plan Niveau 1, Contrôle qualité Niveau 1, Montage électrique Niveau 1",Pneumatique,32.5,Semaine 1: Poste 16 | Semaine 2: Poste 5
+AIR0143,Jacques,Richard,Technicien Technique,Poste 31,"Montage mécanique Niveau 2, Soudure Niveau 2",Mécanique,37.5,Semaine 1: Poste 55 | Semaine 2: Poste 40
+AIR0144,Diego,Richard,Chef d'Équipe Senior,Poste 32,"Soudure Niveau 3, Assemblage Niveau 3","Hydraulique, Mécanique",41.5,Semaine 1: Poste 36 | Semaine 2: Poste 8
+AIR0145,Priya,Fournier,Opérateur Junior,Poste 33,"Assemblage Niveau 1, Contrôle qualité Niveau 1, Montage mécanique Niveau 1, Montage électrique Niveau 1","Hydraulique, Électrique",32.5,Semaine 1: Poste 20 | Semaine 2: Poste 46
+AIR0146,Louis,Thomas,Technicien Senior,Poste 34,"Contrôle qualité Niveau 3, Soudure Niveau 3, Lecture plan Niveau 3","Hydraulique, Électrique",41.5,Semaine 1: Poste 7 | Semaine 2: Poste 34
+AIR0147,Olivia,Lefebvre,Opérateur Senior,Poste 35,"Assemblage Niveau 3, Lecture plan Niveau 3, Montage mécanique Niveau 3, Montage électrique Niveau 3",Hydraulique,41.5,Semaine 1: Poste 30 | Semaine 2: Poste 37
+AIR0148,Hana,Petit,Technicien Senior,Poste 36,"Montage électrique Niveau 3, Assemblage Niveau 3","Hydraulique, Pneumatique",41.5,Semaine 1: Poste 48 | Semaine 2: Poste 20
+AIR0149,Miguel,Lefebvre,Opérateur Senior,Poste 37,"Montage électrique Niveau 3, Lecture plan Niveau 3, Soudure Niveau 3",Électrique,41.5,Semaine 1: Poste 27 | Semaine 2: Poste 31
+AIR0150,Yara,Fournier,Chef d'Équipe Senior,Poste 38,"Montage mécanique Niveau 3, Assemblage Niveau 3, Contrôle qualité Niveau 3",Électrique,41.5,Semaine 1: Poste 52 | Semaine 2: Poste 43
