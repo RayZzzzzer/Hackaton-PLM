@@ -1,0 +1,3 @@
+[submodule "hackaton_backend"]
+	path = hackaton_backend
+	url = https://github.com/ripitchip/hackaton_backend.git
